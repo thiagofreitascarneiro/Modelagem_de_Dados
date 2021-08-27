@@ -1,2 +1,2 @@
 # Modelagem_de_Dados
- Modelagem_mySQL
+ Banco de dados MySQL e PostgreSQL
